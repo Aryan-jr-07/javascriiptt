@@ -4,3 +4,4 @@
 var name = 'John'; // string
 var age = 30; // number
 var isStudent = true; // boolean
+console.log(isStudent)
