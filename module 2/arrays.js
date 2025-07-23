@@ -11,5 +11,13 @@ var a = arr[1]; // accessing the second element
 console.log(a); // bmw
 
 // you can also change the value of an element in an array
-arr[3] = "siuuu";  // changing the value at index 3 null to "siuuu" 
-console.log(arr[3]); // new value
+arr[3] = "siuuu";  // changing the value at index 3 null to "siuuu"
+console.log(arr[3]); // siuuu
+
+// you can also add new elements to an array
+arr[5] = "new element"; // adding a new element at index 5
+console.log(arr[5]); // new element
+
+// you can also find the length of an array
+console.log('the length of the array:', arr.length); // 6
+
