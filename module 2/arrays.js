@@ -21,3 +21,17 @@ console.log(arr[5]); // new element
 // you can also find the length of an array
 console.log('the length of the array:', arr.length); // 6
 
+
+// inbuilt js array methods
+var arr2 = [1, 2, 3, 4, 5];
+console.log(arr2)
+
+// pop method -- removes the last element from an array
+var c = arr2.pop();
+console.log(c)
+console.log("popped array:", arr2); // [1, 2, 3, 4]
+
+// push method -- adds a new element to the end of an array
+var d = arr2.push(100);
+console.log(d); // this will return the new length of the array, the output will ve 5 cuz the updated array length is 5
+console.log("pushed array:", arr2); // [1, 2, 3, 4, 100]
