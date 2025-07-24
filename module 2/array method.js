@@ -33,4 +33,14 @@ var f = arr3.unshift(69); // this will add 69 to the beginning of the array
 console.log(arr3); // [69, 1, 2, 3, 4, 5]
 console.log(f); //6 // this will give the length of thr array after adding new element
 
+
+
+const one =[1,23,"aryko",4,"dawg",true]
+const two =["kyu",false,3,44,9,3]
+const gan = one.push(two)
+console.log(one[6][1])
+
+
 */
+
+
