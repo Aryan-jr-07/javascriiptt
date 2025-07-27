@@ -21,6 +21,7 @@ var person={
 /* another ways to do the same*/
 // console.log(`Name: ${person.name}, Age: ${person.age}, Pincode: ${person.address.pincode}`)
 
+/*
 // you can also change the value of an object property
 person.name="ronaldo";
 person.address.city="patna";
@@ -28,9 +29,9 @@ person.student=false;
 // console.log(person.name) // ronaldo
 // console.log(person) // patna
 
-// you can also delete a property from an object
-delete person.address.road_no
+// you can also delete a property from an objectS
 delete person.hobbies[0]
 console.log(person) 
 
 console.log(person.hobbies) 
+*/
