@@ -12,7 +12,25 @@
 // }
 
 
-var c = "Newton";
-for(var i of c){
-    console.log(i)
-}
+// var c = "Newton";
+// for(var i of c){
+//     console.log(i)
+// }
+
+
+
+
+
+
+
+
+// QUESTIONS :-
+// var siu =1;
+// if(siu >=1)
+//     console.log("Siu is greater than 1");
+// else
+//     console.log("Siu is less than or equal to 1");
+
+// for(let i =10; i>=10; i--){
+//     console.log(i);
+// }
